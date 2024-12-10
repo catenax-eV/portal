@@ -238,7 +238,7 @@ backend:
       clientSecret: "<path:factory-x/data/portal/iam/centralidp-client-secrets#portal-bpdm-sa>"
       startSharingStateAsReady: false
     clearinghouse:
-      clientId: "<path:factory-x/data/portal/stable/clearinghouse#client-id>"
+      clientId: "<path:factory-x/data/portal/clearinghouse#client-id>"
       clientSecret: "<path:factory-x/data/portal/clearinghouse#client-secret>"
     custodian:
       clientId: "<path:factory-x/data/portal/portal-iam-clientIds#custodian-client-id>"
